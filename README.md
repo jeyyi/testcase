@@ -27,8 +27,8 @@ Before you begin, ensure you have the following installed on your machine:
 ## Running the App
 To start the development server and run the app locally, use the following command:
 
-  ```bash
-  npm start
+   ```bash
+   cd npm start
 The app will be accessible at http://localhost:3000 in your web browser.
 
 ## Usage
