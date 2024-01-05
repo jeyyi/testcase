@@ -31,10 +31,3 @@ To start the development server and run the app locally, use the following comma
    npm start
 
 The app will be accessible at http://localhost:3000 in your web browser.
-
-## Usage
-
--The app allows you to manage contacts by adding, editing, and deleting them.
--To add a new contact, click the "Add Contact" button.
--To edit an existing contact, click the "edit" button next to the contact in the table.
--To delete a contact, click the delete button next to the contact in the table.
